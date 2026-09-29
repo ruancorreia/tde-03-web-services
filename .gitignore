@@ -1,0 +1,8 @@
+target/
+bin/
+data/*.mv.db
+data/*.trace.db
+.classpath
+.project
+.settings/
+classes-projeto.zip
